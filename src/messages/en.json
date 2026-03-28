@@ -1,0 +1,272 @@
+{
+  "meta": {
+    "title": "PraxisAcademy AI — AI Workshops, Coaching & Automation",
+    "description": "Hands-on AI training for your business. Workshops, 1:1 coaching, and automation — industry-agnostic, jargon-free, immediately actionable."
+  },
+  "nav": {
+    "home": "Home",
+    "workshop": "Workshop",
+    "coaching": "Coaching",
+    "automatisierung": "Automation",
+    "ueberUns": "About Us",
+    "potenzialrechner": "ROI Calculator",
+    "kontakt": "Contact",
+    "erstgespraech": "Free Consultation"
+  },
+  "hero": {
+    "overline": "AI Training & Automation",
+    "title": "Master AI.",
+    "titleAccent": "Automate processes.",
+    "subtitle": "Bring your real tasks — we show you live how AI solves them. Hands-on workshops, 1:1 coaching, and automation for every industry.",
+    "cta": "Book a Free Consultation"
+  },
+  "services": {
+    "overline": "Our Services",
+    "title": "Three Paths to Greater Efficiency with AI",
+    "workshop": {
+      "title": "AI Workshops",
+      "description": "Team-based workshops for up to 12 participants. Modular structure across multiple days — from fundamentals to deep-dive.",
+      "cta": "Explore Workshops"
+    },
+    "coaching": {
+      "title": "1:1 AI Coaching",
+      "description": "Individual coaching sessions via Zoom. 60 or 90 minutes, flexibly bookable as single sessions or packages.",
+      "cta": "Explore Coaching"
+    },
+    "automatisierung": {
+      "title": "AI Automation",
+      "description": "Project-based automation of your business processes. Custom solutions after initial consultation — no monthly retainers.",
+      "cta": "Learn More"
+    }
+  },
+  "industries": {
+    "overline": "Who We Work With",
+    "title": "For every industry that works with knowledge and communication",
+    "items": ["Law Firms", "Agencies", "Accountants", "Human Resources", "Sales", "Consulting", "Education", "Healthcare", "Real Estate", "Trades"]
+  },
+  "process": {
+    "overline": "How We Work",
+    "title": "Three Steps to Results",
+    "step1": {
+      "number": "01",
+      "tag": "Free",
+      "title": "Initial Consultation",
+      "description": "30 minutes, remote, no obligation. We analyze your processes and show concrete automation potential."
+    },
+    "step2": {
+      "number": "02",
+      "tag": "Within 48h",
+      "title": "Custom Proposal",
+      "description": "Based on your requirements, you receive a tailored proposal for workshop, coaching, or automation."
+    },
+    "step3": {
+      "number": "03",
+      "tag": "Implementation",
+      "title": "Workshop, Coaching or Automation",
+      "description": "We implement together — hands-on, tailored to your real tasks, with immediately measurable results."
+    }
+  },
+  "ctaSection": {
+    "title": "Let's Talk",
+    "subtitle": "30 minutes, free, no obligation.",
+    "button": "Book a Consultation"
+  },
+  "footer": {
+    "description": "Hands-on AI training, coaching, and automation for businesses across every industry.",
+    "leistungen": "Services",
+    "rechtliches": "Legal",
+    "impressum": "Legal Notice",
+    "datenschutz": "Privacy Policy",
+    "sister": "Our Sister Company",
+    "copyright": "© {year} PraxisAcademy AI. All rights reserved."
+  },
+  "popup": {
+    "title": "AI Tips Straight to Your Inbox",
+    "subtitle": "Get hands-on AI insights and exclusive offers.",
+    "namePlaceholder": "Your Name",
+    "emailPlaceholder": "Your Email Address",
+    "consent": "I agree to the processing of my data in accordance with the Privacy Policy.",
+    "submit": "Subscribe Now",
+    "success": "Thank you! Check your inbox for the confirmation.",
+    "calendlyHint": "Or book a consultation directly:"
+  },
+  "common": {
+    "pilotPreis": "Pilot Price",
+    "regularPreis": "Regular Price",
+    "proSession": "per session",
+    "beliebteste": "Most Popular",
+    "bestesAngebot": "Best Value",
+    "netto": "Net",
+    "inkl": "incl.",
+    "bis": "to",
+    "stunden": "hours",
+    "teilnehmer": "participants",
+    "kostenlos": "Free",
+    "rabatt": "Discount",
+    "paket": "Package"
+  },
+  "workshopPage": {
+    "overline": "AI Workshops",
+    "title": "Get Your Team AI-Ready",
+    "subtitle": "Modular workshops for up to 12 participants. Hands-on, interactive, and tailored to your real tasks.",
+    "modulesTitle": "Workshop Modules",
+    "basis": {
+      "title": "Foundation Workshop",
+      "duration": "3–4 Hours",
+      "description": "Fundamentals: AI basics, tool overview, first applications using your real tasks.",
+      "features": ["Understand AI fundamentals", "Tool overview (ChatGPT, Claude, etc.)", "Live demos with your tasks", "Prompt engineering basics", "Up to 12 participants"]
+    },
+    "deepDive": {
+      "title": "Deep-Dive Workshop",
+      "duration": "3–4 Hours",
+      "description": "Advanced: sophisticated techniques, automation strategies, and individual use cases.",
+      "features": ["Advanced prompt techniques", "Understanding AI automation", "Individual use cases", "Workflow integration", "Up to 12 participants"]
+    },
+    "paket": {
+      "title": "Complete Package",
+      "duration": "2 Days",
+      "description": "Foundation + Deep-Dive as a bundle with 10% discount. The most efficient path to an AI-competent team.",
+      "features": ["Both modules combined", "10% package discount", "2 days, flexibly scheduled", "Comprehensive AI competency", "Up to 12 participants"],
+      "badge": "10% Discount"
+    },
+    "pilotNote": "Pilot pricing available for the first 5 customers.",
+    "perPersonTitle": "For Partner Channels",
+    "perPersonNote": "Per-person pricing: €390 Early Bird / €490 Standard",
+    "cta": "Request a Workshop"
+  },
+  "coachingPage": {
+    "overline": "1:1 AI Coaching",
+    "title": "Your Personal AI Sparring Partner",
+    "subtitle": "Individual coaching sessions via Zoom. From preparation to follow-up — everything aligned to your goals.",
+    "flowTitle": "How a Coaching Session Works",
+    "flow": {
+      "step1": {
+        "title": "Preparation",
+        "description": "We analyze your current challenges and prepare relevant content."
+      },
+      "step2": {
+        "title": "Live Session",
+        "description": "Interactive coaching via Zoom — hands-on, tailored to your real tasks."
+      },
+      "step3": {
+        "title": "Follow-Up",
+        "description": "You receive a summary + action items via email."
+      }
+    },
+    "s60Title": "60-Minute Sessions",
+    "s90Title": "90-Minute Sessions (Intensive)",
+    "einzelsession": "Single Session",
+    "paket5": "5-Pack",
+    "paket10": "10-Pack",
+    "pilotNote": "Pilot pricing: €190 (60 min) / €270 (90 min) for single sessions.",
+    "cta": "Book Coaching"
+  },
+  "automationPage": {
+    "overline": "AI Automation",
+    "title": "We Automate What Eats Your Time",
+    "subtitle": "Project-based automation of your business processes. Custom, no monthly retainers.",
+    "processTitle": "The Path to Automation",
+    "step1": {
+      "title": "AI Potential Calculator",
+      "price": "Free",
+      "description": "Interactive ROI calculator on our website. Discover your savings potential in 2 minutes."
+    },
+    "step2": {
+      "title": "Initial Consultation",
+      "price": "Free",
+      "description": "30 minutes remote. We analyze your processes and show concrete automation potential."
+    },
+    "step3": {
+      "title": "Custom Proposal",
+      "price": "Project-based",
+      "description": "Within 48 hours you receive a tailored proposal based on your systems and requirements."
+    },
+    "useCasesTitle": "What We Automate",
+    "useCases": [
+      { "title": "Email Automation", "description": "Automatic classification, reply suggestions, and follow-ups for your inbox." },
+      { "title": "Document Processing", "description": "AI-powered extraction, summarization, and filing of documents." },
+      { "title": "Reporting & Analysis", "description": "Automatic reports from your data sources — daily, weekly, or in real-time." },
+      { "title": "CRM Integration", "description": "Seamless connection of your tools: HubSpot, Salesforce, Pipedrive, and more." },
+      { "title": "AI Assistants", "description": "Custom chatbots and assistants for your internal processes." },
+      { "title": "Process Optimization", "description": "End-to-end automation of complex workflows with Make, Zapier, or n8n." }
+    ],
+    "toolsTitle": "Our Tools",
+    "tools": ["Make", "Zapier", "n8n", "Claude API", "ChatGPT API"],
+    "pilotNote": "Pilot discount: 25% off the first 5 automation projects.",
+    "cta": "Book a Consultation"
+  },
+  "aboutPage": {
+    "overline": "About Us",
+    "title": "Two Founders. One Mission.",
+    "subtitle": "We make AI understandable and usable — for every company, every industry, every team.",
+    "teamTitle": "Our Team",
+    "anjuli": {
+      "name": "Anjuli Hertle",
+      "role": "AI Strategy & Training",
+      "bio": "Anjuli combines strategic thinking with practical AI application. She develops the Academy's workshop concepts and coaching methodology."
+    },
+    "samantha": {
+      "name": "Samantha Meyer",
+      "role": "Process Automation & Tech",
+      "bio": "Samantha is an expert in process automation and technical implementation. She leads the Academy's automation projects."
+    },
+    "valuesTitle": "What Sets Us Apart",
+    "values": [
+      { "title": "Hands-On", "description": "No theory lectures. We work with your real tasks and show immediately actionable solutions." },
+      { "title": "Industry-Agnostic", "description": "Our methods work across every industry — from law firms to trades." },
+      { "title": "Bilingual", "description": "We work in German and English — for teams in the DACH region and internationally." },
+      { "title": "No Tech Jargon", "description": "We explain AI so that everyone on the team can understand and apply it." }
+    ],
+    "sisterTitle": "Our Sister Company",
+    "sisterText": "PraxisNova AI is our sister company, specializing in AI automation for real estate, trades, and construction companies in Germany.",
+    "sisterCta": "Visit PraxisNova AI",
+    "cta": "Let's Talk"
+  },
+  "calculatorPage": {
+    "overline": "AI Potential Calculator",
+    "title": "Discover Your Savings Potential",
+    "subtitle": "5 questions, 2 minutes — and you'll know how much time and money AI can save your business.",
+    "q1": { "label": "What industry do you work in?", "options": ["Law / Legal", "Agency / Marketing", "Tax / Finance", "Human Resources / HR", "Sales", "Consulting", "Education / Training", "Healthcare", "Real Estate", "Trades / Construction", "Other"] },
+    "q2": { "label": "How many employees does your company have?", "options": ["1–5", "6–20", "21–50", "51–200", "200+"] },
+    "q3": { "label": "How many hours per week does your team spend on administrative/repetitive tasks?", "options": ["Under 5 hours", "5–10 hours", "10–20 hours", "20–40 hours", "Over 40 hours"] },
+    "q4": { "label": "Which processes would you like to automate?", "options": ["Emails & Communication", "Document Processing", "Reporting & Analysis", "CRM & Customer Data", "Scheduling", "Other"] },
+    "q5": { "label": "What tools do you currently use?", "options": ["Microsoft 365", "Google Workspace", "Slack / Teams", "HubSpot / Salesforce", "Custom Software", "No specific tools"] },
+    "next": "Next",
+    "back": "Back",
+    "calculate": "Calculate Results",
+    "resultTitle": "Your AI Potential",
+    "weeklyHours": "Estimated hours saved / week",
+    "yearlySavings": "Estimated yearly savings",
+    "automationRate": "Automation rate",
+    "disclaimer": "This estimate is based on industry averages and serves as a guideline.",
+    "resultCta": "Book a free consultation for a detailed analysis"
+  },
+  "impressumPage": {
+    "title": "Legal Notice",
+    "company": "PraxisAcademy AI",
+    "represented": "Represented by",
+    "founders": "Anjuli Hertle & Samantha Meyer",
+    "contact": "Contact",
+    "disclaimer": "Disclaimer",
+    "disclaimerText": "Despite careful content review, we assume no liability for the content of external links. The operators of linked pages are solely responsible for their content.",
+    "copyright": "Copyright",
+    "copyrightText": "The content and works on these pages created by the site operators are subject to German copyright law."
+  },
+  "datenschutzPage": {
+    "title": "Privacy Policy",
+    "s1Title": "1. Data Controller",
+    "s1Text": "The data controller for this website is PraxisAcademy AI, represented by Anjuli Hertle and Samantha Meyer.",
+    "s2Title": "2. Collection and Storage of Personal Data",
+    "s2Text": "When visiting our website, information is automatically collected by server logs. No IP addresses are stored.",
+    "s3Title": "3. Contact",
+    "s3Text": "When you contact us via email or form, your information is stored to process your inquiry.",
+    "s4Title": "4. Cookies and Tracking",
+    "s4Text": "We use an anonymous visitor identifier (UUID) in localStorage. No third-party cookies are set. Analytics cookies are only activated with your consent.",
+    "s5Title": "5. Your Rights",
+    "s5Text": "You have the right to access, rectification, erasure, restriction of processing, data portability, and objection. Contact us at info@praxisacademyai.com.",
+    "s6Title": "6. Newsletter / Email Marketing",
+    "s6Text": "We use the double opt-in procedure. You can unsubscribe at any time via an HMAC-signed link. Processor: Brevo (Sendinblue GmbH).",
+    "s7Title": "7. Third-Party Services",
+    "s7Text": "We use the following third-party services: Vercel (hosting), HubSpot (CRM), Brevo (email marketing). All providers comply with GDPR requirements."
+  }
+}

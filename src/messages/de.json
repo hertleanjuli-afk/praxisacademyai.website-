@@ -1,0 +1,272 @@
+{
+  "meta": {
+    "title": "PraxisAcademy AI — KI-Workshops, Coaching & Automatisierung",
+    "description": "Praxisnahe KI-Trainings für Ihr Unternehmen. Workshops, 1:1 Coaching und Automatisierung — branchenübergreifend, verständlich, sofort umsetzbar."
+  },
+  "nav": {
+    "home": "Startseite",
+    "workshop": "Workshop",
+    "coaching": "Coaching",
+    "automatisierung": "Automatisierung",
+    "ueberUns": "Über uns",
+    "potenzialrechner": "Potenzialrechner",
+    "kontakt": "Kontakt",
+    "erstgespraech": "Kostenloses Erstgespräch"
+  },
+  "hero": {
+    "overline": "KI-Schulung & Automatisierung",
+    "title": "KI meistern.",
+    "titleAccent": "Prozesse automatisieren.",
+    "subtitle": "Sie bringen Ihre Aufgaben mit — wir zeigen live, wie KI sie löst. Praxisnahe Workshops, 1:1 Coaching und Automatisierung für jede Branche.",
+    "cta": "Kostenloses Erstgespräch buchen"
+  },
+  "services": {
+    "overline": "Unsere Leistungen",
+    "title": "Drei Wege zu mehr Effizienz mit KI",
+    "workshop": {
+      "title": "KI-Workshops",
+      "description": "Team-basierte Workshops für bis zu 12 Teilnehmer. Modularer Aufbau über mehrere Tage — von Grundlagen bis Deep-Dive.",
+      "cta": "Workshop entdecken"
+    },
+    "coaching": {
+      "title": "1:1 KI-Coaching",
+      "description": "Individuelle Coaching-Sessions per Zoom. 60 oder 90 Minuten, flexibel buchbar als Einzel- oder Paketpreis.",
+      "cta": "Coaching entdecken"
+    },
+    "automatisierung": {
+      "title": "KI-Automatisierung",
+      "description": "Projektbasierte Automatisierung Ihrer Geschäftsprozesse. Individuelle Lösungen nach Erstgespräch — keine monatlichen Retainer.",
+      "cta": "Mehr erfahren"
+    }
+  },
+  "industries": {
+    "overline": "Für wen wir arbeiten",
+    "title": "Für jede Branche, die mit Wissen und Kommunikation arbeitet",
+    "items": ["Kanzleien", "Agenturen", "Steuerberater", "Personalwesen", "Vertrieb", "Beratung", "Bildung", "Gesundheitswesen", "Immobilien", "Handwerk"]
+  },
+  "process": {
+    "overline": "So arbeiten wir",
+    "title": "In drei Schritten zum Ergebnis",
+    "step1": {
+      "number": "01",
+      "tag": "Kostenlos",
+      "title": "Erstgespräch",
+      "description": "30 Minuten, remote, unverbindlich. Wir analysieren Ihre Prozesse und zeigen konkretes Automatisierungspotenzial."
+    },
+    "step2": {
+      "number": "02",
+      "tag": "Innerhalb 48h",
+      "title": "Individuelles Angebot",
+      "description": "Auf Basis Ihrer Anforderungen erhalten Sie ein maßgeschneidertes Angebot für Workshop, Coaching oder Automatisierung."
+    },
+    "step3": {
+      "number": "03",
+      "tag": "Umsetzung",
+      "title": "Workshop, Coaching oder Automatisierung",
+      "description": "Wir setzen gemeinsam um — praxisnah, auf Ihre echten Aufgaben zugeschnitten, mit sofort messbaren Ergebnissen."
+    }
+  },
+  "ctaSection": {
+    "title": "Lassen Sie uns sprechen",
+    "subtitle": "30 Minuten, kostenlos, unverbindlich.",
+    "button": "Erstgespräch buchen"
+  },
+  "footer": {
+    "description": "Praxisnahe KI-Trainings, Coaching und Automatisierung für Unternehmen jeder Branche.",
+    "leistungen": "Leistungen",
+    "rechtliches": "Rechtliches",
+    "impressum": "Impressum",
+    "datenschutz": "Datenschutz",
+    "sister": "Unsere Schwester-Firma",
+    "copyright": "© {year} PraxisAcademy AI. Alle Rechte vorbehalten."
+  },
+  "popup": {
+    "title": "KI-Tipps direkt in Ihr Postfach",
+    "subtitle": "Erhalten Sie praxisnahe KI-Einblicke und exklusive Angebote.",
+    "namePlaceholder": "Ihr Name",
+    "emailPlaceholder": "Ihre E-Mail-Adresse",
+    "consent": "Ich stimme der Verarbeitung meiner Daten gemäß der Datenschutzerklärung zu.",
+    "submit": "Jetzt anmelden",
+    "success": "Danke! Prüfen Sie Ihr Postfach für die Bestätigung.",
+    "calendlyHint": "Oder buchen Sie direkt ein Erstgespräch:"
+  },
+  "common": {
+    "pilotPreis": "Pilot-Preis",
+    "regularPreis": "Regulärer Preis",
+    "proSession": "pro Session",
+    "beliebteste": "Beliebteste",
+    "bestesAngebot": "Bestes Angebot",
+    "netto": "Netto",
+    "inkl": "inkl.",
+    "bis": "bis",
+    "stunden": "Stunden",
+    "teilnehmer": "Teilnehmer",
+    "kostenlos": "Kostenlos",
+    "rabatt": "Rabatt",
+    "paket": "Paket"
+  },
+  "workshopPage": {
+    "overline": "KI-Workshops",
+    "title": "Ihr Team fit für KI machen",
+    "subtitle": "Modulare Workshops für bis zu 12 Teilnehmer. Praxisnah, interaktiv und auf Ihre echten Aufgaben zugeschnitten.",
+    "modulesTitle": "Workshop-Module",
+    "basis": {
+      "title": "Basis-Workshop",
+      "duration": "3–4 Stunden",
+      "description": "Fundament: KI-Grundlagen, Tools im Überblick, erste Anwendungen mit Ihren echten Aufgaben.",
+      "features": ["KI-Grundlagen verstehen", "Tools-Überblick (ChatGPT, Claude, etc.)", "Live-Demos mit Ihren Aufgaben", "Prompt-Engineering Basics", "Bis zu 12 Teilnehmer"]
+    },
+    "deepDive": {
+      "title": "Deep-Dive Workshop",
+      "duration": "3–4 Stunden",
+      "description": "Vertiefung: Fortgeschrittene Techniken, Automatisierungsstrategien und individuelle Use Cases.",
+      "features": ["Fortgeschrittene Prompt-Techniken", "KI-Automatisierung verstehen", "Individuelle Use Cases", "Workflow-Integration", "Bis zu 12 Teilnehmer"]
+    },
+    "paket": {
+      "title": "Komplett-Paket",
+      "duration": "2 Tage",
+      "description": "Basis + Deep-Dive als Paket mit 10% Rabatt. Der effizienteste Weg zum KI-kompetenten Team.",
+      "features": ["Beide Module kombiniert", "10% Paketrabatt", "2 Tage, flexibel planbar", "Umfassende KI-Kompetenz", "Bis zu 12 Teilnehmer"],
+      "badge": "10% Rabatt"
+    },
+    "pilotNote": "Pilot-Preise gelten für die ersten 5 Kunden.",
+    "perPersonTitle": "Für Partner-Kanäle",
+    "perPersonNote": "Pro-Kopf-Preise: €390 Early Bird / €490 Standard",
+    "cta": "Workshop anfragen"
+  },
+  "coachingPage": {
+    "overline": "1:1 KI-Coaching",
+    "title": "Ihr persönlicher KI-Sparringspartner",
+    "subtitle": "Individuelle Coaching-Sessions per Zoom. Von der Vorbereitung bis zur Nachbereitung — alles auf Ihre Ziele ausgerichtet.",
+    "flowTitle": "So läuft ein Coaching ab",
+    "flow": {
+      "step1": {
+        "title": "Vorbereitung",
+        "description": "Wir analysieren Ihre aktuellen Herausforderungen und bereiten relevante Inhalte vor."
+      },
+      "step2": {
+        "title": "Live-Session",
+        "description": "Interaktives Coaching per Zoom — praxisnah, auf Ihre echten Aufgaben zugeschnitten."
+      },
+      "step3": {
+        "title": "Nachbereitung",
+        "description": "Sie erhalten eine Zusammenfassung + Action Items per E-Mail."
+      }
+    },
+    "s60Title": "60-Minuten Sessions",
+    "s90Title": "90-Minuten Sessions (Intensiv)",
+    "einzelsession": "Einzelsession",
+    "paket5": "5er-Paket",
+    "paket10": "10er-Paket",
+    "pilotNote": "Pilot-Preise: €190 (60 Min) / €270 (90 Min) für die Einzelsession.",
+    "cta": "Coaching buchen"
+  },
+  "automationPage": {
+    "overline": "KI-Automatisierung",
+    "title": "Wir automatisieren, was Ihre Zeit frisst",
+    "subtitle": "Projektbasierte Automatisierung Ihrer Geschäftsprozesse. Individuell, keine monatlichen Retainer.",
+    "processTitle": "Der Weg zur Automatisierung",
+    "step1": {
+      "title": "KI-Potenzialrechner",
+      "price": "Kostenlos",
+      "description": "Interaktiver ROI-Rechner auf unserer Website. In 2 Minuten erfahren Sie Ihr Einsparpotenzial."
+    },
+    "step2": {
+      "title": "Erstgespräch",
+      "price": "Kostenlos",
+      "description": "30 Minuten remote. Wir analysieren Ihre Prozesse und zeigen konkretes Automatisierungspotenzial."
+    },
+    "step3": {
+      "title": "Individuelles Angebot",
+      "price": "Projektbasiert",
+      "description": "Innerhalb von 48 Stunden erhalten Sie ein maßgeschneidertes Angebot basierend auf Ihren Systemen und Anforderungen."
+    },
+    "useCasesTitle": "Was wir automatisieren",
+    "useCases": [
+      { "title": "E-Mail-Automatisierung", "description": "Automatische Klassifizierung, Antwortvorschläge und Follow-ups für Ihr Postfach." },
+      { "title": "Dokumentenverarbeitung", "description": "KI-gestützte Extraktion, Zusammenfassung und Ablage von Dokumenten." },
+      { "title": "Reporting & Analyse", "description": "Automatische Berichte aus Ihren Datenquellen — täglich, wöchentlich oder in Echtzeit." },
+      { "title": "CRM-Integration", "description": "Nahtlose Verbindung Ihrer Tools: HubSpot, Salesforce, Pipedrive und mehr." },
+      { "title": "KI-Assistenten", "description": "Maßgeschneiderte Chatbots und Assistenten für Ihre internen Prozesse." },
+      { "title": "Prozess-Optimierung", "description": "End-to-End Automatisierung komplexer Workflows mit Make, Zapier oder n8n." }
+    ],
+    "toolsTitle": "Unsere Tools",
+    "tools": ["Make", "Zapier", "n8n", "Claude API", "ChatGPT API"],
+    "pilotNote": "Pilot-Rabatt: 25% auf die ersten 5 Automatisierungsprojekte.",
+    "cta": "Erstgespräch buchen"
+  },
+  "aboutPage": {
+    "overline": "Über uns",
+    "title": "Zwei Gründerinnen. Eine Mission.",
+    "subtitle": "Wir machen KI verständlich und nutzbar — für jedes Unternehmen, jede Branche, jedes Team.",
+    "teamTitle": "Unser Team",
+    "anjuli": {
+      "name": "Anjuli Hertle",
+      "role": "KI-Strategie & Training",
+      "bio": "Anjuli verbindet strategisches Denken mit praktischer KI-Anwendung. Sie entwickelt die Workshop-Konzepte und Coaching-Methodik der Academy."
+    },
+    "samantha": {
+      "name": "Samantha Meyer",
+      "role": "Prozessautomatisierung & Technik",
+      "bio": "Samantha ist Expertin für Prozessautomatisierung und technische Implementierung. Sie leitet die Automatisierungsprojekte der Academy."
+    },
+    "valuesTitle": "Was uns ausmacht",
+    "values": [
+      { "title": "Praxisnah", "description": "Keine Theorie-Vorträge. Wir arbeiten mit Ihren echten Aufgaben und zeigen sofort umsetzbare Lösungen." },
+      { "title": "Branchenübergreifend", "description": "Unsere Methoden funktionieren in jeder Branche — von Kanzleien bis zum Handwerk." },
+      { "title": "Bilingual", "description": "Wir arbeiten auf Deutsch und Englisch — für Teams im DACH-Raum und international." },
+      { "title": "Kein Tech-Jargon", "description": "Wir erklären KI so, dass jeder im Team es versteht und anwenden kann." }
+    ],
+    "sisterTitle": "Unsere Schwester-Firma",
+    "sisterText": "PraxisNova AI ist unsere Schwester-Firma und spezialisiert auf KI-Automatisierung für Immobilien, Handwerk und Bauunternehmen in Deutschland.",
+    "sisterCta": "PraxisNova AI besuchen",
+    "cta": "Lassen Sie uns sprechen"
+  },
+  "calculatorPage": {
+    "overline": "KI-Potenzialrechner",
+    "title": "Entdecken Sie Ihr Einsparpotenzial",
+    "subtitle": "5 Fragen, 2 Minuten — und Sie wissen, wie viel Zeit und Geld KI Ihrem Unternehmen sparen kann.",
+    "q1": { "label": "In welcher Branche arbeiten Sie?", "options": ["Kanzlei / Recht", "Agentur / Marketing", "Steuerberatung / Finanzen", "Personalwesen / HR", "Vertrieb / Sales", "Beratung / Consulting", "Bildung / Training", "Gesundheitswesen", "Immobilien", "Handwerk / Bau", "Sonstiges"] },
+    "q2": { "label": "Wie viele Mitarbeiter hat Ihr Unternehmen?", "options": ["1–5", "6–20", "21–50", "51–200", "200+"] },
+    "q3": { "label": "Wie viele Stunden pro Woche verbringt Ihr Team mit administrativen/repetitiven Aufgaben?", "options": ["Unter 5 Stunden", "5–10 Stunden", "10–20 Stunden", "20–40 Stunden", "Über 40 Stunden"] },
+    "q4": { "label": "Welche Prozesse möchten Sie automatisieren?", "options": ["E-Mails & Kommunikation", "Dokumentenverarbeitung", "Reporting & Analyse", "CRM & Kundendaten", "Terminplanung", "Sonstiges"] },
+    "q5": { "label": "Welche Tools nutzen Sie aktuell?", "options": ["Microsoft 365", "Google Workspace", "Slack / Teams", "HubSpot / Salesforce", "Eigene Software", "Keine speziellen Tools"] },
+    "next": "Weiter",
+    "back": "Zurück",
+    "calculate": "Ergebnis berechnen",
+    "resultTitle": "Ihr KI-Potenzial",
+    "weeklyHours": "Geschätzte Stunden gespart / Woche",
+    "yearlySavings": "Geschätzte jährliche Einsparung",
+    "automationRate": "Automatisierungsgrad",
+    "disclaimer": "Diese Schätzung basiert auf Branchendurchschnitten und dient als Orientierung.",
+    "resultCta": "Jetzt Erstgespräch buchen für eine detaillierte Analyse"
+  },
+  "impressumPage": {
+    "title": "Impressum",
+    "company": "PraxisAcademy AI",
+    "represented": "Vertreten durch",
+    "founders": "Anjuli Hertle & Samantha Meyer",
+    "contact": "Kontakt",
+    "disclaimer": "Haftungsausschluss",
+    "disclaimerText": "Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.",
+    "copyright": "Urheberrecht",
+    "copyrightText": "Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht."
+  },
+  "datenschutzPage": {
+    "title": "Datenschutzerklärung",
+    "s1Title": "1. Verantwortlicher",
+    "s1Text": "Verantwortlich für die Datenverarbeitung auf dieser Website ist PraxisAcademy AI, vertreten durch Anjuli Hertle und Samantha Meyer.",
+    "s2Title": "2. Erhebung und Speicherung personenbezogener Daten",
+    "s2Text": "Beim Besuch unserer Website werden automatisch Informationen durch den Server-Log erfasst. Es werden keine IP-Adressen gespeichert.",
+    "s3Title": "3. Kontaktaufnahme",
+    "s3Text": "Wenn Sie uns per E-Mail oder Formular kontaktieren, werden Ihre Angaben zur Bearbeitung Ihrer Anfrage gespeichert.",
+    "s4Title": "4. Cookies und Tracking",
+    "s4Text": "Wir verwenden einen anonymen Besucher-Identifikator (UUID) in localStorage. Es werden keine Drittanbieter-Cookies gesetzt. Analytische Cookies werden nur mit Ihrer Einwilligung aktiviert.",
+    "s5Title": "5. Ihre Rechte",
+    "s5Text": "Sie haben das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit und Widerspruch. Kontaktieren Sie uns unter info@praxisacademyai.com.",
+    "s6Title": "6. Newsletter / E-Mail-Marketing",
+    "s6Text": "Wir verwenden das Double-Opt-In-Verfahren. Sie können sich jederzeit über einen HMAC-signierten Link abmelden. Auftragsverarbeiter: Brevo (Sendinblue GmbH).",
+    "s7Title": "7. Drittanbieter",
+    "s7Text": "Wir nutzen folgende Drittanbieter: Vercel (Hosting), HubSpot (CRM), Brevo (E-Mail-Marketing). Alle Anbieter erfüllen die Anforderungen der DSGVO."
+  }
+}

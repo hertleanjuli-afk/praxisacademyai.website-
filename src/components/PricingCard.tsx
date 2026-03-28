@@ -127,15 +127,26 @@ export default function PricingCard({
         </div>
       )}
 
-      {/* Pilot price */}
+      {/* Pilot price — prominent */}
       {pilotPrice && (
-        <p
-          className={`font-body text-xs mb-4 ${
-            popular ? "text-white/40" : "text-ink-muted"
-          }`}
-        >
-          Pilot: {formatPrice(pilotPrice)}
-        </p>
+        <div className="mb-4">
+          <span
+            className={`inline-block font-body text-xs uppercase tracking-widest font-medium px-2.5 py-1 rounded-full mb-2 ${
+              popular
+                ? "bg-white/10 text-white/70"
+                : "bg-accent-light text-accent"
+            }`}
+          >
+            Pilot-Preis
+          </span>
+          <p
+            className={`font-body text-base font-medium ${
+              popular ? "text-accent" : "text-accent"
+            }`}
+          >
+            {formatPrice(pilotPrice)}
+          </p>
+        </div>
       )}
 
       {/* Features */}

@@ -4,6 +4,7 @@ import { useTranslations } from "next-intl";
 import Link from "next/link";
 import { motion } from "framer-motion";
 import PricingCard from "@/components/PricingCard";
+import SubpageNav from "@/components/SubpageNav";
 import { SITE_CONFIG } from "@/config/site";
 
 const fadeUp = {
@@ -22,6 +23,7 @@ export default function WorkshopPage() {
 
   return (
     <main>
+      <SubpageNav />
       {/* Hero */}
       <section className="bg-cream pt-28 pb-20 px-6 md:px-12">
         <div className="max-w-4xl mx-auto text-center">
@@ -86,14 +88,26 @@ export default function WorkshopPage() {
             />
           </div>
 
-          {/* Notes */}
+          {/* Pilot Program Info Box */}
           <motion.div initial="hidden" whileInView="visible" viewport={{ once: true }} custom={4} variants={fadeUp}
-            className="mt-10 text-center"
+            className="mt-10 bg-accent/5 border border-accent/20 rounded-xl p-6 max-w-3xl mx-auto"
           >
-            <p className="font-body text-xs text-ink-muted mb-2">
-              {t("pilotNote")}
-            </p>
-            <div className="mt-6 p-4 bg-cream rounded-xl inline-block">
+            <div className="flex items-start gap-3">
+              <span className="text-accent text-xl flex-shrink-0 mt-0.5">◆</span>
+              <div>
+                <h4 className="font-display text-lg font-semibold text-ink mb-2">Pilot-Programm</h4>
+                <p className="font-body text-sm text-ink-soft font-light leading-relaxed">
+                  Als einer unserer ersten 5 Kunden profitieren Sie von reduzierten Pilot-Preisen. Sie erhalten den vollen Workshop-Umfang und helfen uns gleichzeitig, unser Angebot mit echtem Feedback zu perfektionieren. Die Pilot-Phase endet nach 5 abgeschlossenen Buchungen.
+                </p>
+              </div>
+            </div>
+          </motion.div>
+
+          {/* Per-Person Pricing */}
+          <motion.div initial="hidden" whileInView="visible" viewport={{ once: true }} custom={5} variants={fadeUp}
+            className="mt-6 text-center"
+          >
+            <div className="p-4 bg-cream rounded-xl inline-block">
               <p className="font-body text-sm font-medium text-ink mb-1">{t("perPersonTitle")}</p>
               <p className="font-body text-xs text-ink-soft">{t("perPersonNote")}</p>
             </div>

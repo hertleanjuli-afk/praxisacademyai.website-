@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "PraxisAcademy AI — KI-Workshops, Coaching & Automatisierung",
-    "description": "Praxisnahe KI-Trainings für Ihr Unternehmen. Workshops, 1:1 Coaching und Automatisierung — branchenübergreifend, verständlich, sofort umsetzbar."
+    "title": "PraxisAcademy AI | KI-Workshops, Coaching & Automatisierung",
+    "description": "Praxisnahe KI-Trainings für Ihr Unternehmen. Workshops, 1:1 Coaching und Automatisierung. Branchenübergreifend, verständlich, sofort umsetzbar."
   },
   "nav": {
     "home": "Startseite",
@@ -17,7 +17,7 @@
     "overline": "KI-Schulung & Automatisierung",
     "title": "KI meistern.",
     "titleAccent": "Prozesse automatisieren.",
-    "subtitle": "Sie bringen Ihre Aufgaben mit — wir zeigen live, wie KI sie löst. Praxisnahe Workshops, 1:1 Coaching und Automatisierung für jede Branche.",
+    "subtitle": "Sie bringen Ihre Aufgaben mit, wir zeigen live, wie KI sie löst. Praxisnahe Workshops, 1:1 Coaching und Automatisierung für jede Branche.",
     "cta": "Kostenloses Erstgespräch buchen"
   },
   "services": {
@@ -25,7 +25,7 @@
     "title": "Drei Wege zu mehr Effizienz mit KI",
     "workshop": {
       "title": "KI-Workshops",
-      "description": "Team-basierte Workshops für bis zu 12 Teilnehmer. Modularer Aufbau über mehrere Tage — von Grundlagen bis Deep-Dive.",
+      "description": "Team-basierte Workshops für bis zu 12 Teilnehmer. Modularer Aufbau über mehrere Tage, von Grundlagen bis Deep-Dive.",
       "cta": "Workshop entdecken"
     },
     "coaching": {
@@ -35,7 +35,7 @@
     },
     "automatisierung": {
       "title": "KI-Automatisierung",
-      "description": "Projektbasierte Automatisierung Ihrer Geschäftsprozesse. Individuelle Lösungen nach Erstgespräch — keine monatlichen Retainer.",
+      "description": "Projektbasierte Automatisierung Ihrer Geschäftsprozesse. Individuelle Lösungen nach Erstgespräch, keine monatlichen Retainer.",
       "cta": "Mehr erfahren"
     }
   },
@@ -63,7 +63,7 @@
       "number": "03",
       "tag": "Umsetzung",
       "title": "Workshop, Coaching oder Automatisierung",
-      "description": "Wir setzen gemeinsam um — praxisnah, auf Ihre echten Aufgaben zugeschnitten, mit sofort messbaren Ergebnissen."
+      "description": "Wir setzen gemeinsam um: praxisnah, auf Ihre echten Aufgaben zugeschnitten, mit sofort messbaren Ergebnissen."
     }
   },
   "ctaSection": {
@@ -125,9 +125,9 @@
     "paket": {
       "title": "Komplett-Paket",
       "duration": "2 Tage",
-      "description": "Basis + Deep-Dive als Paket mit 10% Rabatt. Der effizienteste Weg zum KI-kompetenten Team.",
-      "features": ["Beide Module kombiniert", "10% Paketrabatt", "2 Tage, flexibel planbar", "Umfassende KI-Kompetenz", "Bis zu 12 Teilnehmer"],
-      "badge": "10% Rabatt"
+      "description": "Basis + Deep-Dive als Paket mit 20% Rabatt. Der effizienteste Weg zum KI-kompetenten Team.",
+      "features": ["Beide Module kombiniert", "20% Paketrabatt", "2 Tage, flexibel planbar", "Umfassende KI-Kompetenz", "Bis zu 12 Teilnehmer"],
+      "badge": "20% Rabatt"
     },
     "pilotNote": "Pilot-Preise gelten für die ersten 5 Kunden.",
     "perPersonTitle": "Für Partner-Kanäle",
@@ -137,7 +137,7 @@
   "coachingPage": {
     "overline": "1:1 KI-Coaching",
     "title": "Ihr persönlicher KI-Sparringspartner",
-    "subtitle": "Individuelle Coaching-Sessions per Zoom. Von der Vorbereitung bis zur Nachbereitung — alles auf Ihre Ziele ausgerichtet.",
+    "subtitle": "Individuelle Coaching-Sessions per Zoom. Von der Vorbereitung bis zur Nachbereitung, alles auf Ihre Ziele ausgerichtet.",
     "flowTitle": "So läuft ein Coaching ab",
     "flow": {
       "step1": {
@@ -146,7 +146,7 @@
       },
       "step2": {
         "title": "Live-Session",
-        "description": "Interaktives Coaching per Zoom — praxisnah, auf Ihre echten Aufgaben zugeschnitten."
+        "description": "Interaktives Coaching per Zoom, praxisnah, auf Ihre echten Aufgaben zugeschnitten."
       },
       "step3": {
         "title": "Nachbereitung",
@@ -183,13 +183,14 @@
     },
     "useCasesTitle": "Was wir automatisieren",
     "useCases": [
-      { "title": "E-Mail-Automatisierung", "description": "Automatische Klassifizierung, Antwortvorschläge und Follow-ups für Ihr Postfach." },
-      { "title": "Dokumentenverarbeitung", "description": "KI-gestützte Extraktion, Zusammenfassung und Ablage von Dokumenten." },
-      { "title": "Reporting & Analyse", "description": "Automatische Berichte aus Ihren Datenquellen — täglich, wöchentlich oder in Echtzeit." },
-      { "title": "CRM-Integration", "description": "Nahtlose Verbindung Ihrer Tools: HubSpot, Salesforce, Pipedrive und mehr." },
-      { "title": "KI-Assistenten", "description": "Maßgeschneiderte Chatbots und Assistenten für Ihre internen Prozesse." },
-      { "title": "Prozess-Optimierung", "description": "End-to-End Automatisierung komplexer Workflows mit Make, Zapier oder n8n." }
+      { "title": "E-Mail-Automatisierung", "description": "Automatische Klassifizierung, Antwortvorschläge und Follow-ups für Ihr Postfach.", "back": ["Eingehende E-Mails automatisch kategorisieren", "Antwort-Drafts per KI erstellen", "Follow-up Erinnerungen nach 48h", "Newsletter-Segmentierung automatisieren"] },
+      { "title": "Dokumentenverarbeitung", "description": "KI-gestützte Extraktion, Zusammenfassung und Ablage von Dokumenten.", "back": ["Rechnungen automatisch erfassen & verbuchen", "Verträge analysieren & Kernpunkte extrahieren", "Dokumente intelligent archivieren", "Berichte aus Rohdaten generieren"] },
+      { "title": "Reporting & Analyse", "description": "Automatische Berichte aus Ihren Datenquellen: täglich, wöchentlich oder in Echtzeit.", "back": ["Dashboard-Reports automatisch generieren", "KPI-Tracking mit Anomalie-Erkennung", "Wettbewerbs-Monitoring", "Trend-Analysen aus Ihren Geschäftsdaten"] },
+      { "title": "CRM-Integration", "description": "Nahtlose Verbindung Ihrer Tools: HubSpot, Salesforce, Pipedrive und mehr.", "back": ["Kontakte automatisch anlegen & aktualisieren", "Lead-Scoring nach Interaktionen", "Automatische Aufgaben bei Status-Änderungen", "Daten zwischen Systemen synchronisieren"] },
+      { "title": "KI-Assistenten", "description": "Maßgeschneiderte Chatbots und Assistenten für Ihre internen Prozesse.", "back": ["Interner Wissens-Chatbot für Ihr Team", "Kunden-Support-Assistent 24/7", "Onboarding-Begleiter für neue Mitarbeiter", "FAQ-Bot für Ihre Website"] },
+      { "title": "Prozess-Optimierung", "description": "End-to-End Automatisierung komplexer Workflows mit Make, Zapier oder n8n.", "back": ["Multi-Step Workflows designen & implementieren", "Bestehende Prozesse analysieren & optimieren", "Fehlerquoten durch Automatisierung senken", "Schnittstellen zwischen Abteilungen verbinden"] }
     ],
+    "flipCta": "Mehr erfahren → Erstgespräch buchen",
     "toolsTitle": "Unsere Tools",
     "tools": ["Make", "Zapier", "n8n", "Claude API", "ChatGPT API"],
     "pilotNote": "Pilot-Rabatt: 25% auf die ersten 5 Automatisierungsprojekte.",
@@ -198,7 +199,7 @@
   "aboutPage": {
     "overline": "Über uns",
     "title": "Zwei Gründerinnen. Eine Mission.",
-    "subtitle": "Wir machen KI verständlich und nutzbar — für jedes Unternehmen, jede Branche, jedes Team.",
+    "subtitle": "Wir machen KI verständlich und nutzbar. Für jedes Unternehmen, jede Branche, jedes Team.",
     "teamTitle": "Unser Team",
     "anjuli": {
       "name": "Anjuli Hertle",
@@ -213,8 +214,8 @@
     "valuesTitle": "Was uns ausmacht",
     "values": [
       { "title": "Praxisnah", "description": "Keine Theorie-Vorträge. Wir arbeiten mit Ihren echten Aufgaben und zeigen sofort umsetzbare Lösungen." },
-      { "title": "Branchenübergreifend", "description": "Unsere Methoden funktionieren in jeder Branche — von Kanzleien bis zum Handwerk." },
-      { "title": "Bilingual", "description": "Wir arbeiten auf Deutsch und Englisch — für Teams im DACH-Raum und international." },
+      { "title": "Branchenübergreifend", "description": "Unsere Methoden funktionieren in jeder Branche, von Kanzleien bis zum Handwerk." },
+      { "title": "Bilingual", "description": "Wir arbeiten auf Deutsch und Englisch, für Teams im DACH-Raum und international." },
       { "title": "Kein Tech-Jargon", "description": "Wir erklären KI so, dass jeder im Team es versteht und anwenden kann." }
     ],
     "sisterTitle": "Unsere Schwester-Firma",
@@ -225,7 +226,7 @@
   "calculatorPage": {
     "overline": "KI-Potenzialrechner",
     "title": "Entdecken Sie Ihr Einsparpotenzial",
-    "subtitle": "5 Fragen, 2 Minuten — und Sie wissen, wie viel Zeit und Geld KI Ihrem Unternehmen sparen kann.",
+    "subtitle": "5 Fragen, 2 Minuten, und Sie wissen, wie viel Zeit und Geld KI Ihrem Unternehmen sparen kann.",
     "q1": { "label": "In welcher Branche arbeiten Sie?", "options": ["Kanzlei / Recht", "Agentur / Marketing", "Steuerberatung / Finanzen", "Personalwesen / HR", "Vertrieb / Sales", "Beratung / Consulting", "Bildung / Training", "Gesundheitswesen", "Immobilien", "Handwerk / Bau", "Sonstiges"] },
     "q2": { "label": "Wie viele Mitarbeiter hat Ihr Unternehmen?", "options": ["1–5", "6–20", "21–50", "51–200", "200+"] },
     "q3": { "label": "Wie viele Stunden pro Woche verbringt Ihr Team mit administrativen/repetitiven Aufgaben?", "options": ["Unter 5 Stunden", "5–10 Stunden", "10–20 Stunden", "20–40 Stunden", "Über 40 Stunden"] },

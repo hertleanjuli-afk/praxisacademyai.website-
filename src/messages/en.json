@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "PraxisAcademy AI — AI Workshops, Coaching & Automation",
-    "description": "Hands-on AI training for your business. Workshops, 1:1 coaching, and automation — industry-agnostic, jargon-free, immediately actionable."
+    "title": "PraxisAcademy AI | AI Workshops, Coaching & Automation",
+    "description": "Hands-on AI training for your business. Workshops, 1:1 coaching, and automation. Industry-agnostic, jargon-free, immediately actionable."
   },
   "nav": {
     "home": "Home",
@@ -17,7 +17,7 @@
     "overline": "AI Training & Automation",
     "title": "Master AI.",
     "titleAccent": "Automate processes.",
-    "subtitle": "Bring your real tasks — we show you live how AI solves them. Hands-on workshops, 1:1 coaching, and automation for every industry.",
+    "subtitle": "Bring your real tasks, we show you live how AI solves them. Hands-on workshops, 1:1 coaching, and automation for every industry.",
     "cta": "Book a Free Consultation"
   },
   "services": {
@@ -25,7 +25,7 @@
     "title": "Three Paths to Greater Efficiency with AI",
     "workshop": {
       "title": "AI Workshops",
-      "description": "Team-based workshops for up to 12 participants. Modular structure across multiple days — from fundamentals to deep-dive.",
+      "description": "Team-based workshops for up to 12 participants. Modular structure across multiple days, from fundamentals to deep-dive.",
       "cta": "Explore Workshops"
     },
     "coaching": {
@@ -35,7 +35,7 @@
     },
     "automatisierung": {
       "title": "AI Automation",
-      "description": "Project-based automation of your business processes. Custom solutions after initial consultation — no monthly retainers.",
+      "description": "Project-based automation of your business processes. Custom solutions after initial consultation, no monthly retainers.",
       "cta": "Learn More"
     }
   },
@@ -63,7 +63,7 @@
       "number": "03",
       "tag": "Implementation",
       "title": "Workshop, Coaching or Automation",
-      "description": "We implement together — hands-on, tailored to your real tasks, with immediately measurable results."
+      "description": "We implement together: hands-on, tailored to your real tasks, with immediately measurable results."
     }
   },
   "ctaSection": {
@@ -126,8 +126,8 @@
       "title": "Complete Package",
       "duration": "2 Days",
       "description": "Foundation + Deep-Dive as a bundle with 10% discount. The most efficient path to an AI-competent team.",
-      "features": ["Both modules combined", "10% package discount", "2 days, flexibly scheduled", "Comprehensive AI competency", "Up to 12 participants"],
-      "badge": "10% Discount"
+      "features": ["Both modules combined", "20% package discount", "2 days, flexibly scheduled", "Comprehensive AI competency", "Up to 12 participants"],
+      "badge": "20% Discount"
     },
     "pilotNote": "Pilot pricing available for the first 5 customers.",
     "perPersonTitle": "For Partner Channels",
@@ -137,7 +137,7 @@
   "coachingPage": {
     "overline": "1:1 AI Coaching",
     "title": "Your Personal AI Sparring Partner",
-    "subtitle": "Individual coaching sessions via Zoom. From preparation to follow-up — everything aligned to your goals.",
+    "subtitle": "Individual coaching sessions via Zoom. From preparation to follow-up, everything aligned to your goals.",
     "flowTitle": "How a Coaching Session Works",
     "flow": {
       "step1": {
@@ -146,7 +146,7 @@
       },
       "step2": {
         "title": "Live Session",
-        "description": "Interactive coaching via Zoom — hands-on, tailored to your real tasks."
+        "description": "Interactive coaching via Zoom, hands-on, tailored to your real tasks."
       },
       "step3": {
         "title": "Follow-Up",
@@ -183,13 +183,14 @@
     },
     "useCasesTitle": "What We Automate",
     "useCases": [
-      { "title": "Email Automation", "description": "Automatic classification, reply suggestions, and follow-ups for your inbox." },
-      { "title": "Document Processing", "description": "AI-powered extraction, summarization, and filing of documents." },
-      { "title": "Reporting & Analysis", "description": "Automatic reports from your data sources — daily, weekly, or in real-time." },
-      { "title": "CRM Integration", "description": "Seamless connection of your tools: HubSpot, Salesforce, Pipedrive, and more." },
-      { "title": "AI Assistants", "description": "Custom chatbots and assistants for your internal processes." },
-      { "title": "Process Optimization", "description": "End-to-end automation of complex workflows with Make, Zapier, or n8n." }
+      { "title": "Email Automation", "description": "Automatic classification, reply suggestions, and follow-ups for your inbox.", "back": ["Auto-categorize incoming emails", "AI-generated reply drafts", "Follow-up reminders after 48h", "Automate newsletter segmentation"] },
+      { "title": "Document Processing", "description": "AI-powered extraction, summarization, and filing of documents.", "back": ["Auto-capture & book invoices", "Analyze contracts & extract key points", "Intelligently archive documents", "Generate reports from raw data"] },
+      { "title": "Reporting & Analysis", "description": "Automatic reports from your data sources: daily, weekly, or in real-time.", "back": ["Auto-generate dashboard reports", "KPI tracking with anomaly detection", "Competitor monitoring", "Trend analysis from your business data"] },
+      { "title": "CRM Integration", "description": "Seamless connection of your tools: HubSpot, Salesforce, Pipedrive, and more.", "back": ["Auto-create & update contacts", "Lead scoring based on interactions", "Automatic tasks on status changes", "Sync data between systems"] },
+      { "title": "AI Assistants", "description": "Custom chatbots and assistants for your internal processes.", "back": ["Internal knowledge chatbot for your team", "24/7 customer support assistant", "Onboarding companion for new employees", "FAQ bot for your website"] },
+      { "title": "Process Optimization", "description": "End-to-end automation of complex workflows with Make, Zapier, or n8n.", "back": ["Design & implement multi-step workflows", "Analyze & optimize existing processes", "Reduce error rates through automation", "Connect interfaces between departments"] }
     ],
+    "flipCta": "Learn more → Book a consultation",
     "toolsTitle": "Our Tools",
     "tools": ["Make", "Zapier", "n8n", "Claude API", "ChatGPT API"],
     "pilotNote": "Pilot discount: 25% off the first 5 automation projects.",
@@ -198,7 +199,7 @@
   "aboutPage": {
     "overline": "About Us",
     "title": "Two Founders. One Mission.",
-    "subtitle": "We make AI understandable and usable — for every company, every industry, every team.",
+    "subtitle": "We make AI understandable and usable. For every company, every industry, every team.",
     "teamTitle": "Our Team",
     "anjuli": {
       "name": "Anjuli Hertle",
@@ -213,8 +214,8 @@
     "valuesTitle": "What Sets Us Apart",
     "values": [
       { "title": "Hands-On", "description": "No theory lectures. We work with your real tasks and show immediately actionable solutions." },
-      { "title": "Industry-Agnostic", "description": "Our methods work across every industry — from law firms to trades." },
-      { "title": "Bilingual", "description": "We work in German and English — for teams in the DACH region and internationally." },
+      { "title": "Industry-Agnostic", "description": "Our methods work across every industry, from law firms to trades." },
+      { "title": "Bilingual", "description": "We work in German and English, for teams in the DACH region and internationally." },
       { "title": "No Tech Jargon", "description": "We explain AI so that everyone on the team can understand and apply it." }
     ],
     "sisterTitle": "Our Sister Company",
@@ -225,7 +226,7 @@
   "calculatorPage": {
     "overline": "AI Potential Calculator",
     "title": "Discover Your Savings Potential",
-    "subtitle": "5 questions, 2 minutes — and you'll know how much time and money AI can save your business.",
+    "subtitle": "5 questions, 2 minutes, and you'll know how much time and money AI can save your business.",
     "q1": { "label": "What industry do you work in?", "options": ["Law / Legal", "Agency / Marketing", "Tax / Finance", "Human Resources / HR", "Sales", "Consulting", "Education / Training", "Healthcare", "Real Estate", "Trades / Construction", "Other"] },
     "q2": { "label": "How many employees does your company have?", "options": ["1–5", "6–20", "21–50", "51–200", "200+"] },
     "q3": { "label": "How many hours per week does your team spend on administrative/repetitive tasks?", "options": ["Under 5 hours", "5–10 hours", "10–20 hours", "20–40 hours", "Over 40 hours"] },

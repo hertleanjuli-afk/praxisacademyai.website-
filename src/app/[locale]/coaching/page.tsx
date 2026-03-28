@@ -4,6 +4,7 @@ import { useTranslations } from "next-intl";
 import Link from "next/link";
 import { motion } from "framer-motion";
 import PricingCard from "@/components/PricingCard";
+import SubpageNav from "@/components/SubpageNav";
 import { SITE_CONFIG } from "@/config/site";
 
 const fadeUp = {
@@ -25,6 +26,7 @@ export default function CoachingPage() {
 
   return (
     <main>
+      <SubpageNav />
       {/* Hero */}
       <section className="bg-cream pt-28 pb-20 px-6 md:px-12">
         <div className="max-w-4xl mx-auto text-center">
@@ -141,16 +143,16 @@ export default function CoachingPage() {
               title={t("paket5")}
               subtitle="5 × 90 Min"
               regularPrice={c.s90.paket5}
-              perSession={`${tCommon("proSession")}: €350`}
-              discount="10% Rabatt"
+              perSession={`${tCommon("proSession")}: €318`}
+              discount="18% Rabatt"
               animationIndex={2}
             />
             <PricingCard
               title={t("paket10")}
               subtitle="10 × 90 Min"
               regularPrice={c.s90.paket10}
-              perSession={`${tCommon("proSession")}: €279`}
-              discount="28% Rabatt"
+              perSession={`${tCommon("proSession")}: €249`}
+              discount="36% Rabatt"
               popular={true}
               badge={tCommon("bestesAngebot")}
               animationIndex={3}

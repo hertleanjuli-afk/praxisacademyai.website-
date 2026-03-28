@@ -3,6 +3,7 @@
 import { useTranslations } from "next-intl";
 import Link from "next/link";
 import { motion } from "framer-motion";
+import SubpageNav from "@/components/SubpageNav";
 import { SITE_CONFIG } from "@/config/site";
 
 const fadeUp = {
@@ -18,11 +19,13 @@ export default function AutomatisierungPage() {
   const t = useTranslations("automationPage");
 
   const steps = ["step1", "step2", "step3"] as const;
-  const useCases: { title: string; description: string }[] = t.raw("useCases");
+  const useCases: { title: string; description: string; back: string[] }[] = t.raw("useCases");
+  const flipCta = t("flipCta");
   const tools: string[] = t.raw("tools");
 
   return (
     <main>
+      <SubpageNav />
       {/* Hero */}
       <section className="bg-cream pt-28 pb-20 px-6 md:px-12">
         <div className="max-w-4xl mx-auto text-center">
@@ -82,7 +85,7 @@ export default function AutomatisierungPage() {
         </div>
       </section>
 
-      {/* 6 Use Case Cards */}
+      {/* 6 Flip Cards */}
       <section className="bg-cream-dark py-20 px-6 md:px-12">
         <div className="max-w-6xl mx-auto">
           <motion.h2 initial="hidden" whileInView="visible" viewport={{ once: true }} custom={0} variants={fadeUp}
@@ -100,14 +103,36 @@ export default function AutomatisierungPage() {
                 viewport={{ once: true }}
                 custom={i + 1}
                 variants={fadeUp}
-                className="bg-white rounded-xl p-7 border border-ink/8 hover:-translate-y-1 hover:shadow-lg transition-all"
+                className="group h-64 [perspective:1000px]"
               >
-                <h3 className="font-display text-lg font-semibold text-ink mb-2">
-                  {uc.title}
-                </h3>
-                <p className="font-body text-sm text-ink-soft font-light leading-relaxed">
-                  {uc.description}
-                </p>
+                <div className="relative w-full h-full transition-transform duration-[600ms] ease-in-out [transform-style:preserve-3d] group-hover:[transform:rotateY(180deg)]">
+                  {/* Front */}
+                  <div className="absolute inset-0 bg-white rounded-xl p-7 border border-ink/8 [backface-visibility:hidden] flex flex-col justify-center">
+                    <h3 className="font-display text-lg font-semibold text-ink mb-2">
+                      {uc.title}
+                    </h3>
+                    <p className="font-body text-sm text-ink-soft font-light leading-relaxed">
+                      {uc.description}
+                    </p>
+                  </div>
+                  {/* Back */}
+                  <div className="absolute inset-0 bg-ink rounded-xl p-7 border border-ink/8 [backface-visibility:hidden] [transform:rotateY(180deg)] flex flex-col justify-between">
+                    <ul className="flex flex-col gap-2">
+                      {uc.back.map((item) => (
+                        <li key={item} className="font-body text-sm text-white/80 flex items-start gap-2">
+                          <span className="text-accent mt-0.5 flex-shrink-0">•</span>
+                          {item}
+                        </li>
+                      ))}
+                    </ul>
+                    <Link
+                      href={SITE_CONFIG.calendly}
+                      className="font-body text-xs text-accent font-medium mt-4 hover:underline"
+                    >
+                      {flipCta}
+                    </Link>
+                  </div>
+                </div>
               </motion.div>
             ))}
           </div>
